@@ -1,2 +1,2 @@
 # LeetCode
-This repository is log my approach on the LeetCode problems.
+This repository serves as my comprehensive log towards approaching leetcode problems. 
